@@ -1,0 +1,2 @@
+2023-01-09	11:27:15	bc01d5d3-c793-4817-a95c-d2af4c84c74e	TypeError: Cannot set properties of undefined (setting 'firstname')
+2023-01-09	11:29:42	a318fc80-8639-4937-8ce6-207a83f67c55	TypeError: Cannot read properties of undefined (reading 'firstname')
