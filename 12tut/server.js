@@ -4,19 +4,18 @@ const path = require('path');
 const cors = require('cors');
 const corsOptions = require('./config/corsOptions');
 const { logger } = require('./middleware/logEvent');
-const credentials = require('./middleware/credentials');
 const errorHandler = require('./middleware/errorHandler');
-const verifyJWT = require('./middleware/verifyJWT')
-const cookieParser = require('cookie-parser')
-
+const verifyJWT = require('./middleware/verifyJWT');
+const cookieParser = require('cookie-parser');
+const credentials = require('./middleware/credentials');
 const PORT = process.env.PORT || 3500;
 
 // custom middleware logger
 app.use(logger);
 
-// Handle options credentials check - before CORS
+// Handle options credentials check - before CORS!
 // and fetch cookies credentials requirement
-app.use(credentials)
+app.use(credentials);
 
 // Cross Origin Resource Sharing
 app.use(cors(corsOptions));
@@ -27,7 +26,7 @@ app.use(express.urlencoded({ extended: false }));
 // built-in middleware for json 
 app.use(express.json());
 
-// middleware for cookies
+//middleware for cookies
 app.use(cookieParser());
 
 //serve static files

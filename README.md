@@ -19,6 +19,11 @@ The each of the following folders consist of dedicated chapters designed such th
 | 05tut | Understanding how a server works and building a static as well as a dynamic server |
 | 06tut | Introduction to Express JS and its utility over creating a dynamic server in node |
 | 07tut | Understanding Middleware and creating custom middleware and error handlers  |
+| 08tut | Routing in express js and passing params to url  |
+| 09tut | MVC framework for REST API  |
+| 10tut | User Authentication |
+| 11tut | JWT  |
+| 12tut | User Role Based Authorization  |
 
 
 ## Acknowledgements

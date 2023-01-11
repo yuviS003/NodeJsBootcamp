@@ -1,0 +1,15 @@
+2023-01-11	11:46:25	720240f5-e726-4d8c-8fda-6901f94aab00	POST	undefined	/auth
+2023-01-11	11:46:36	86fe6452-b33e-4ff8-b598-b8138bc19bb3	POST	undefined	/auth
+2023-01-11	11:46:37	a0c02023-9b5b-4a54-9d86-37c6409caa2e	POST	undefined	/auth
+2023-01-11	11:46:38	810af036-c0b5-4d57-a626-ef0d5c9c365e	POST	undefined	/auth
+2023-01-11	11:46:38	60b8e402-7c19-4f58-a84e-d89189b20864	POST	undefined	/auth
+2023-01-11	11:46:38	bd928058-fae3-4001-87b9-db315ad01f9d	POST	undefined	/auth
+2023-01-11	11:46:39	a816b8db-6b25-4ae6-8f65-8b0c1b779bfa	POST	undefined	/auth
+2023-01-11	11:46:39	1b0fe060-8547-4c61-bf1b-9af1d95e2c0d	POST	undefined	/auth
+2023-01-11	11:47:04	390b9712-fec1-4769-804d-ccacf7715a0c	POST	undefined	/auth
+2023-01-11	11:47:08	c0b7779a-5d28-482f-9eb8-51ebea767e4b	POST	undefined	/auth
+2023-01-11	11:47:23	44ff1a04-d07a-43d0-83ae-b62771f5b4c6	GET	undefined	/employees
+2023-01-11	11:47:34	2415c736-2b0b-4971-8e0e-8379f407c4a1	DELETE	undefined	/employees/1
+2023-01-11	11:47:42	18346c14-3856-4238-b78b-4f13a0c42499	GET	undefined	/employees
+2023-01-11	11:48:56	cf592b26-1e59-4f5b-9130-f931f7ea46a8	POST	undefined	/auth
+2023-01-11	11:49:05	b749c21a-a5d9-478a-b5c4-457cf5d4e9a2	GET	undefined	/employees
