@@ -7,7 +7,7 @@ I am currently in the midst of my journey to understand the fundamental basics o
 
 This bootcamp consists of demonstrating the working of Express js server and interaction with MongoDB database via server.
 
-The each of the following folders consist of dedicated chapters designed such that it does not become a burder while learing.
+Each of the following folders consist of dedicated chapters designed such that it does not become a burden while learning.
 
 ## Directory Descriptions
 | Directory name             | Chapter                                                                |
@@ -25,6 +25,8 @@ The each of the following folders consist of dedicated chapters designed such th
 | 11tut | JWT  |
 | 12tut | User Role Based Authorization  |
 | 13tut | Introduction to MongoDB Atlas and connecting the current node application with the database  |
+| 14tut | Mongoose Schema for creating new Users  |
+| 15tut | ASYNC CRUD Operations in MongoDB  |
 
 
 ## Acknowledgements
