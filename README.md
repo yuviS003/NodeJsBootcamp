@@ -24,6 +24,7 @@ The each of the following folders consist of dedicated chapters designed such th
 | 10tut | User Authentication |
 | 11tut | JWT  |
 | 12tut | User Role Based Authorization  |
+| 13tut | Introduction to MongoDB Atlas and connecting the current node application with the database  |
 
 
 ## Acknowledgements
